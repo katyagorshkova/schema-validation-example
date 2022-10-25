@@ -1,0 +1,15 @@
+{
+  "namespace": "org.jresearch.kafka.examples",
+  "type": "record",
+  "name": "Company",
+  "fields": [
+    {
+      "name": "tradeNumber",
+      "type": "int"
+    },
+    {
+      "name": "registeredName",
+      "type": "string"
+    }
+  ]
+}
